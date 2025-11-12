@@ -22,7 +22,7 @@ I’m an **AI Analyst** at **NVIDIA** with a foundation in Applied Mathematics a
 ---
 
 ##  Experience  
-### Hypergrowth Labs | Data Analyst (Practicum)  
+### NVIDIA | AI Analyst
 *Nov 2025 – Present*  
 - Evaluated and optimized AI model performance across GPU architectures for inference efficiency.
 - Analyzed training metrics and system telemetry to diagnose and resolve computational bottlenecks.
