@@ -17,17 +17,15 @@ I’m an **AI Analyst** at **NVIDIA** with a foundation in Applied Mathematics a
 - **Programming & Data:** Python, SQL, R, ETL Pipelines, Data Modeling, Statistical Analysis  
 - **Machine Learning:** Regression, Clustering (K-means), XGBoost, Random Forest, SVR, Feature Engineering  
 - **Visualization & Tools:** Tableau, Power BI, Excel (Advanced), Pandas, NumPy, Matplotlib  
-- **Other:** Agile methodologies, GitHub version control, Data storytelling  
+- **Other:** Applied Mathematics, Analytical reasoning
 
 ---
 
 ##  Experience  
 ### NVIDIA | AI Analyst
 *Nov 2025 – Present*  
-- Evaluated and optimized AI model performance across GPU architectures for inference efficiency.
-- Analyzed training metrics and system telemetry to diagnose and resolve computational bottlenecks.
+- Evaluated and optimized AI model performance through data labelling and prompt engineering.
 - Collaborated with ML teams to fine-tune LLMs and vision models for production deployment.
-- Developed automated dashboards and reports to track model accuracy, latency, and resource utilization.
 
 ### Hypergrowth Labs | Data Analyst (Practicum)  
 *Jan 2025 – Jun 2025*  
