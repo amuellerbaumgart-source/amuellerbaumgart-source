@@ -67,5 +67,5 @@ I’m an **AI Analyst** at **NVIDIA** with a foundation in Applied Mathematics a
 ---
 
 ##  Connect with Me  
-- 📩 [amuellerbaumgart@gmail.com](mailto:amuellerbaumgart@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alvaro-muller-baumgart-lucena-336426205/)  
+- [amuellerbaumgart@gmail.com](mailto:amuellerbaumgart@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/alvaro-muller-baumgart-lucena-336426205/)  
